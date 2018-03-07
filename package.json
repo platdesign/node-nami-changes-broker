@@ -26,5 +26,8 @@
   "main": "./service",
   "scripts": {
     "test": "NODE_ENV=test mocha"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
