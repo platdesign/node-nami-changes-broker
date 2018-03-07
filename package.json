@@ -16,7 +16,7 @@
     "is": "^3.2.1",
     "mongoose": "^5.0.9"
   },
-  "repository": "",
+  "repository": "https://github.com/platdesign/node-nami-changes-broker.git",
   "devDependencies": {
     "chalk": "^2.3.2",
     "code": "^5.2.0",
