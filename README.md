@@ -1,17 +1,21 @@
-# nami-sync
+# @platdesign/nami-changes-broker
 
-A project by platdesign.de
+(unofficial) NaMi changes broker.
+This service uses [NaMi-SDK](https://github.com/platdesign/node-nami-sdk) to create change events from snapshot-diffs.
+
 
 
 # Install
 
-`npm install --save nami-sync`
+`npm install --save @platdesign/nami-changes-broker`
+
+
 
 # Usage
+See examples.
+
 
 
 # Author
 
 [@platdesign](https://twitter.com/platdesign)
-
-# License
